@@ -1,0 +1,1 @@
+Tiny habits can change your life over time. Small daily actions — like walking more, sleeping better, or making healthier choices — may seem minor, but they build lasting results through consistency. Real change comes from simple habits repeated every day, not from extreme changes.

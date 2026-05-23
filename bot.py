@@ -1,2 +1,2 @@
-pip install python-telegram-bot 
-supabase python-dotenv 
+import os
+import telegram 
